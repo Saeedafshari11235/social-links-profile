@@ -31,4 +31,10 @@ main{
     color: var(--White);
     /* *********************************** */
     background-color: var(--Grey-800);
+    border-radius: 0.7rem;
+}
+
+img{
+    border-radius: 50%;
+    width: 30%;
 }
